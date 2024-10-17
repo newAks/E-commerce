@@ -45,4 +45,10 @@ Web Server: NGINX serves both the frontend (React) and the backend (FastAPI) to 
 
 TASK ORDER:
 1. Research how E-commerce website work and what are required pieces for it.
-2. Research how to make these pieces.
+
+
+2. Research how to make these pieces:
+
+
+3. Reacherce file-system: 
+   
