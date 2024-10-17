@@ -39,3 +39,10 @@ Frontend: React serves the user interface, allowing users to browse products, ma
 API: FastAPI handles the backend logic, exposing endpoints for managing users, products, and orders.
 Database: MongoDB stores product data, user profiles, cart items, and orders.
 Web Server: NGINX serves both the frontend (React) and the backend (FastAPI) to the user’s browser.
+
+
+
+
+TASK ORDER:
+1. Research how E-commerce website work and what are required pieces for it.
+2. Research how to make these pieces.
